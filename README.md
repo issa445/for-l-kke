@@ -1,2 +1,2 @@
-# for-l-kke
-Nummer 1
+for n in range(5):
+  print(1-5)
